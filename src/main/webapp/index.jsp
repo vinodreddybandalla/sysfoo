@@ -23,7 +23,7 @@
 						<div>
 						<nav>
 								<ul class="actions">
-										<li><a  class="button special">Sysfoo</a></li>
+										<li><a  class="button special">System Info</a></li>
 									</ul>
 
 						</nav>
@@ -31,7 +31,7 @@
 						<div class="content">
 							<div class="inner">
 								<h1>version 0.0.2 </h1>
-								<h2>SYSTEM INFO</h2>
+								<h2>Hosted On</h2>
 								<a  class="button special"><% out.println(request.getLocalAddr()); %></a>
 								<p>
 								<h3><% out.println("IP address  :  " + request.getLocalAddr()); %></h3>
@@ -55,7 +55,7 @@
 							<article id="about">
 								<h2 class="major">About</h2>
 								<span class="image main"><img src="images/sodc_banner.jpg" alt="" /></span>
-								<p>School of Devops is a leading provider of devops trainings and offers variety of courses which focus on Infrastrucrture as a Code, Container and Docker, Continuous Delivery, Cloud. To learn more visit http://www.schoolofdevops.com.</p>
+								<p>Hi I am Krushna, Learning DevOps practices</p>
 							</article>
 					</div>
 
