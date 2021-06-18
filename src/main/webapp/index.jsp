@@ -6,7 +6,7 @@
 -->
 <html>
 	<head>
-		<title>Sysfoo Demo App by School of Devops</title>
+		<title>Sysfoo Demo App by Krushna Bhanage</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
@@ -42,7 +42,7 @@
 						</div>
 						<nav>
 							<ul>
-								<li><a href="#about">School of Devops</a></li>
+								<li><a href="#about">Thanks you for Visit!!!</a></li>
 							</ul>
 						</nav>
 					</header>
@@ -61,7 +61,7 @@
 
 				<!-- Footer -->
 					<footer id="footer">
-						<p class="copyright">&copycopyrights; Designed by Meenachi</a>.</p>
+						<p class="copyright">&copycopyrights; Designed by Krushna</a>.</p>
 					</footer>
 
 			</div>
