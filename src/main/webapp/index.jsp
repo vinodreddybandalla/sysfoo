@@ -54,7 +54,7 @@
 						<!-- About -->
 							<article id="about">
 								<h2 class="major">About</h2>
-								<span class="image main"><img src="images/sodc_banner.jpg" alt="" /></span>
+								<span class="image main"><img src="images/sodc_banner1.jpg" alt="" /></span>
 								<p>Hi I am Krushna, Learning DevOps practices</p>
 							</article>
 					</div>
