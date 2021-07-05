@@ -42,7 +42,7 @@
 						</div>
 						<nav>
 							<ul>
-								<li><a href="#about">Thanks you for Visit!!!</a></li>
+								<li><a href="#about">Thanks you... for Visit!!!</a></li>
 							</ul>
 						</nav>
 					</header>
