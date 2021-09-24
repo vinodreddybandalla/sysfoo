@@ -5,6 +5,9 @@ pipeline{
     triggers {
         pollSCM '* * * * *'
     }
+    tools {
+        maven "Maven"
+    }
     stages{
         stage("Requirement Gathering - Cloning Repo"){
             steps{
