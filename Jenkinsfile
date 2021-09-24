@@ -2,6 +2,9 @@ pipeline{
     agent{
         label "rhel"
     }
+    triggers {
+        pollSCM '* * * * *'
+    }
     stages{
         stage("Requirement Gathering - Cloning Repo"){
             steps{
