@@ -9,7 +9,6 @@ pipeline{
         stage("Requirement Gathering - Cloning Repo"){
             steps{
                 git 'https://github.com/krushnabhanage10/sysfoo.git'
-                
             }
         }
         stage("Build"){
@@ -17,8 +16,8 @@ pipeline{
                 def mvnHome= tool name: 'maven', type: 'maven'
                 def mvnCMD= "${mvnHome}/bin/mvn"
                 sh "${mvnCMD} clean install package"
-                
             }
         }
+
     }
 }
