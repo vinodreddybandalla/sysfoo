@@ -1,5 +1,3 @@
-def mvnHome= tool name: 'maven', type: 'maven'
-def mvnCMD= "${mvnHome}/bin/mvn"
 pipeline{
     agent{
         label "rhel"
@@ -15,9 +13,10 @@ pipeline{
         }
         stage("Build"){
             steps{
-                sh "${mvnCMD} clean install package"
+                withMaven {
+                sh "mvn clean package"
+            } 
             }
         }
-
     }
 }
