@@ -23,7 +23,7 @@
 						<div>
 						<nav>
 								<ul class="actions">
-										<li><a  class="button special">System===Info</a></li>
+										<li><a  class="button special">Host System Info</a></li>
 									</ul>
 
 						</nav>
