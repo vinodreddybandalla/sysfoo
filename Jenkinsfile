@@ -41,11 +41,11 @@ pipeline{
         }
         success{
             echo "Success.....!!!"
-            mail bcc: '', body: 'The Pipeline is Executed: Successfully', cc: '', from: '', replyTo: '', subject: 'The Pipeline is Execution is Successful', to: 'Krushnabhanage10@gmail.com'
+            mail bcc: '', body: 'The Pipeline is Executed: Successfully', cc: '', from: '', replyTo: '', subject: 'JAVA WEBAPP:The Pipeline is Executed: Successfully', to: 'Krushnabhanage10@gmail.com'
         }
         failure{
             echo "Failure,,, Kindly check the pipline file in repo"
-            mail bcc: '', body: 'The Pipeline is Executed: Failed', cc: '', from: '', replyTo: '', subject: 'The Pipeline is Execution is Failed', to: 'Krushnabhanage10@gmail.com'
+            mail bcc: '', body: 'The Pipeline is Executed: Failed', cc: '', from: '', replyTo: '', subject: 'JAVA WEBAPP: The Pipeline is Executed: Failed', to: 'Krushnabhanage10@gmail.com'
         }
         }
 }
