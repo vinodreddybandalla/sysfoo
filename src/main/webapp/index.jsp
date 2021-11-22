@@ -6,7 +6,7 @@
 -->
 <html>
 	<head>
-		<title>SysInfo App by Krushna Bhanage.....!!</title>
+		<title>SysInfo App by vinod reddy.....!!</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
@@ -55,13 +55,13 @@
 							<article id="about">
 								<h2 class="major">About</h2>
 								<span class="image main"><img src="images/sodc_banner1.jpg" alt="" /></span>
-								<p>Hi I am Krushna, Learning DevOps practices</p>
+								<p>Hi I am vinod reddy, Learning DevOps practices</p>
 							</article>
 					</div>
 
 				<!-- Footer -->
 					<footer id="footer">
-						<p class="copyright">&copycopyrights; Designed by Krushna</a>.</p>
+						<p class="copyright">&copycopyrights; Designed by vinod reddy</a>.</p>
 					</footer>
 
 			</div>
